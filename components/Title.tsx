@@ -8,7 +8,7 @@ interface MenuProps {
 export default function Title(props: MenuProps) {
     return(
         <>
-            <h1 className="my-5 text-center font-mono font-bold text-2xl underline">
+            <h1 className="py-5 text-center font-mono font-bold text-3xl">
                 {props.children}
             </h1>
         </>

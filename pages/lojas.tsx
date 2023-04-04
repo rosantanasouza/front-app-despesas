@@ -4,7 +4,7 @@ export default function Lojas() {
     return(
         <>
             <Title>
-                Lojas
+                LOJAS
             </Title>
         </>
     )    

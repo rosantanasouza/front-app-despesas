@@ -10,7 +10,9 @@ export default function Layout(props: MenuProps) {
     return(
         <>
             <Header />
-            {props.children}
+            <main>
+                {props.children}
+            </main>            
         </>
     )
 }

@@ -4,7 +4,7 @@ export default function Configuracoes() {
     return(
         <>
             <Title>
-                Configurações
+                CONFIGURAÇÕES
             </Title>
         </>
     )    
